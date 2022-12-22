@@ -1,5 +1,5 @@
  Online Banking System-------
- demo
+ demo onlin banking
 ## Document:
 System Requirement Specification Document
 
